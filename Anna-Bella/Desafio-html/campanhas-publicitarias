@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anna Bella - Campanhas Publicitárias</title>
+    <link rel="stylesheet" type="text/css" href="index.css">
+
+</head>
+
+<body>
+    <div id="principal">
+
+        <img src="arquivos-necessarios-projeto-anna-bella/capa.png">
+
+        <div id="menu">
+            <a href="index.html">HOME</a> |
+            <a href="biografia.html">BIOGRAFIA</a> |
+            <a href="campanhas-publicitarias.html">CAMPANHAS PUBLICITÁRIAS</a> |
+            <a href="contato.html">CONTATO</a>
+
+        </div>
+
+        <div id="conteudo">
+            <h1>Campanhas publicitárias</h1>
+            <p>
+                A campanha, intitulada “Uma Ode ao Amor, uma Ode aos Ícones”, destaca a elegância e a tropicalidade do
+                Brasil
+            </p>
+
+            <img src="arquivos-necessarios-projeto-anna-bella/foto1.png" class="img-campanha">
+
+            <p>
+                participou de uma campanha inovadora da Boss, onde sua imagem foi projetada como um holograma próximo à
+                Tower Bridge, em Londres, como parte da ação #BeYourOwnBOSS.
+            </p>
+
+            <img src="arquivos-necessarios-projeto-anna-bella/foto2.png" class="img-campanha">
+
+            <p>
+                Apareceu em 12 filmes publicitários para o C6 Bank, incluindo campanhas para a plataforma de
+                investimentos C6 Invest e os segmentos C6 Carbon e C6 Empresas.
+            </p>
+
+            <img src="arquivos-necessarios-projeto-anna-bella/foto3.png" class="img-campanha">
+
+            <p>
+                Essas campanhas mostram a versatilidade e o impacto contínuo de Anna Bella no mundo da moda e da
+                publicidade.
+            </p>
+        </div>
+
+        <div id="rodape">
+            <h4>Todos os direitos reservados</h4>
+        </div>
+
+    </div>
+
+</body>
+
+</html>
